@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xJessicaCamargo
-- 👀 I’m interested in ... Learning and a start to new job of technology of information
+- 👀 I’m interested in ... Learning about Data Science
 - 🌱 I’m currently learning ... Python and basic JavaScript
 - 💞️ I’m looking to collaborate on ... Discouvering...
 - 📫 How to reach me ... https://www.linkedin.com/in/jessica-camargo-272a80142/
