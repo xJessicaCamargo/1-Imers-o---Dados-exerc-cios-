@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xJessicaCamargo
-- 👀 I’m interested in ... Learning about Data Science
-- 🌱 I’m currently learning ... Python, Power BI, SQL
-- 💞️ I’m looking to collaborate on ... Data Scientist
+- 👀 I’m interested in ... Learning about Data Science, UI/UX Design and Front End
+- 🌱 I’m currently learning ... Python, Power BI, HTML5, JavaScript
 - 📫 How to reach me ... https://www.linkedin.com/in/jessica-camargo-272a80142/
 
 <!---
